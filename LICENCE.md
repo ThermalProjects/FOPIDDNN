@@ -1,4 +1,4 @@
-Copyright (c) 2026 Miguel F. Ferrer. All rights reserved.
+Copyright (c) 2026 Miguel F. Ferrer, Carlos Sánchez Morales, Federico León Zerpa and Alejandro Ramos Martín. All rights reserved.
 
 This code and associated materials are made public **for viewing and academic reference only**.
 

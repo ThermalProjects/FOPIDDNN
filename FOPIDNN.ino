@@ -16,7 +16,7 @@ float Ts = 0.1;
 const bool USE_RAMP = true;
 
 // ======== BIAS TÉRMICO ========
-const float THERMAL_BIAS = 1.2;
+const float THERMAL_BIAS = 0.4;
 
 // ================== ESTADO ==================
 float Tsup = 0;

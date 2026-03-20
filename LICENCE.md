@@ -3,7 +3,7 @@ Copyright (c) 2026 Miguel F. Ferrer, Carlos Sánchez Morales, Federico León Zer
 This code and associated materials are made public **for viewing and academic reference only**.
 
 Strictly prohibited:
-- Using this code in papers or scientific publications without explicit permission from the author.
+- Using this code in papers or scientific publications without explicit permission from the authors.
 - Redistributing, selling, adapting, or including it in other projects without authorization.
 - Any commercial use.
 

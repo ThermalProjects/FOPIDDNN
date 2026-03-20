@@ -9,6 +9,6 @@ Strictly prohibited:
 
 Permitted:
 - Viewing the code publicly.
-- Educational use in university classes **only with explicit permission from the author**.
+- Educational use in university classes **only with explicit permission from the authors**.
 
-To request permission for educational use, please open an issue to contact the author.
+To request permission for educational use, please open an issue to contact the authors.
